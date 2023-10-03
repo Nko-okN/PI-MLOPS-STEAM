@@ -83,5 +83,6 @@ Link to the [API]([(https://steam-project-api-f98r.onrender.com])
 
 **Exploratory Data Analysis**: With clean data, I conducted EDA, searching for relationships between games using a correlation matrix, identifying patterns, creating rankings of the most played games, and the quantity and types of reviews. For this purpose, Python libraries such as matplotlib and seaborn were used.
 
-
+## RECOMENDATION SYSTEM
+needs optimization for deployment. work in progress... :worried:
 
