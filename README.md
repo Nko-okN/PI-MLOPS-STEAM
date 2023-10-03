@@ -77,7 +77,7 @@ Endpoint to find the bottom 3 items with the lowest sentiment scores for a given
     Returns:
         dict: A dictionary containing sentiment analysis data for the given year.
     
-Link to the [API](https://pi-ml-steam-deploy.onrender.com)
+Link to the [API]([(https://steam-project-api-f98r.onrender.com])
 
 ## EDA (Exploratory Data Analysis)
 
